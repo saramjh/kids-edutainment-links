@@ -19,9 +19,8 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Prodigy](https://www.prodigygame.com)
 * [Brilliant.org](https://brilliant.org/)
 * [Wondika](https://wondika.com) - AI-generated math story adventures for kids ages 6–11 (K–5), no ads, also available in Vietnamese
-* [Fuuvix Games](https://app.fuuvix.com/games) - 28 free maths, English, science and geography games for ages 6–16 (Class 1–10), no sign-in, no ads
-* [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free interactive astronomy learning activities about Moon phases, Earth seasons, and the scale of the universe; best explored with a parent or teacher, no sign-in
-, adapts to each child's level
+* [Fuuvix Games](https://app.fuuvix.com/games) - 28 free maths, English, science and geography games for ages 6–16 (Class 1–10), no sign-in, no ads, adapts to each child's level
+* [Space Atlas](https://spaceatlasedu.org/) - Free Moon-phase, Earth-season and cosmic-scale models for parent- or teacher-guided exploration. Uses Google Analytics and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
 
 ## French
 
